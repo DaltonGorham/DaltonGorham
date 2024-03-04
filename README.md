@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaltonGorham
 - 👀 I’m interested in computer science and working out!
-- 🌱 I’m currently learning c++ and python!
+- 🌱 Looking to build my skills in c++, javascript, html, and css!
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me. Email me: daltongorham@gmail.com
 
