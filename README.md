@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DaltonGorham
 - 👀 I’m looking to be a better software developer each day.
+
 -🧑‍💻Currently focusing on javascript, html, css, and c++!
 - 📫Email me: daltongorham@gmail.com
 
