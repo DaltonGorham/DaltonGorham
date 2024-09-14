@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m working on mastering software development practices, building efficient solutions, and exploring various coding paradigms.<br><br>🚀 Open to collaborations on interesting projects that push the limits of creativity and coding!<br><br>👨‍💻 Computer Science Student at The University of Central Arkansas.
+💻 I’m working on mastering software development practices, building efficient solutions, and exploring various coding paradigms.<br><br>🚀 Open to collaborations on interesting projects that push the limits of creativity and coding!<br><br>👨‍💻 Computer Science Student at The University of Central Arkansas set to graduate in May of 2026 
 
 
 ## 🌐 Socials:
