@@ -12,6 +12,8 @@ I'm dedicated to mastering software development practices and building efficient
 
 **Development Engineering Intern** | *Acxiom* | *Current*
 
+Supporting DevOps initiatives by developing and maintaining Jenkins pipelines, writing automation scripts in Bash and Python, and managing cloud infrastructure using Terraform and AWS. Built and deployed Docker-based tools to streamline CI/CD workflows.
+
 ### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dalton-gorham)
