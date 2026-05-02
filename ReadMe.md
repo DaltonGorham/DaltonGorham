@@ -1,16 +1,14 @@
 # Dalton Gorham
 
-## Software Developer | Computer Science Student
-
-Welcome to my GitHub profile! I'm a passionate software developer currently pursuing my Computer Science degree at The University of Central Arkansas, with an expected graduation date of May 2026.
+## Software Developer
 
 ### About Me
 
-I'm dedicated to mastering software development practices and building efficient, scalable solutions. My interests span various programming paradigms, and I'm always eager to explore new technologies and methodologies that push the boundaries of what's possible in software development.
+I'm dedicated to mastering software development practices and building efficient, scalable solutions. My interests span various programming paradigms, and I'm always eager to explore new technologies and methodologies.
 
 ### Current Experience
 
-**Development Engineering Intern** | *Acxiom* | *Current*
+**Development Engineering Intern** | *Acxiom*
 
 Supporting DevOps initiatives by developing and maintaining Jenkins pipelines, writing automation scripts in Bash and Python, and managing cloud infrastructure using Terraform and AWS. Built and deployed Docker-based tools to streamline CI/CD workflows.
 
