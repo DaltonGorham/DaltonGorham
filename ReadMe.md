@@ -6,7 +6,9 @@
 
 I'm dedicated to mastering software development practices and building efficient, scalable solutions. My interests span various programming paradigms, and I'm always eager to explore new technologies and methodologies.
 
-### Current Experience
+### Experience
+
+**Software Engineer** | *Flywheel*
 
 **Development Engineering Intern** | *Acxiom*
 
