@@ -8,7 +8,11 @@ I'm dedicated to mastering software development practices and building efficient
 
 ### Experience
 
+**DevOps Engineer** | *Cryoport Systems*
+
 **Software Engineer** | *Flywheel*
+
+Developed and maintained backend services and automation using Python, Bash, Kafka, and Jenkins, supporting CI/CD pipelines and production infrastructure.
 
 **Development Engineering Intern** | *Acxiom*
 
