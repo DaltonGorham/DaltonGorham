@@ -1,10 +1,6 @@
 # Dalton Gorham
 
-## Software Developer
-
-### About Me
-
-I'm dedicated to mastering software development practices and building efficient, scalable solutions. My interests span various programming paradigms, and I'm always eager to explore new technologies and methodologies.
+## Tech Guy
 
 ### Experience
 
